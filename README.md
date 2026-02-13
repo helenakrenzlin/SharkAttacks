@@ -43,6 +43,8 @@ Focus: Unprovoked, sport-related incidents
 
 **Key Insights**
 
+* Majority of incidents are unprovoked
+
 * Majority of incidents involve male participants
 
 * Surfing, swimming, and wading dominate exposure
@@ -58,6 +60,7 @@ Focus: Unprovoked, sport-related incidents
 **3.** Prioritize lower-limb protection
 
 **4.** Use data-driven, non-fear-based marketing
+
 
 You can find our presentation in this link:
 https://docs.google.com/presentation/d/1eTJTYzwIYBNvlgiKl4ZveXupgZmBjq7tBRLSwKBWei8/edit?usp=sharing

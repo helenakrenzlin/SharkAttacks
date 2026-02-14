@@ -1,19 +1,22 @@
-**Shark-Resistant Gear Feasibility Analysis**
----------------------------------------------------------------------
-**Overview**
+## **Shark-Resistant Gear Feasibility Analysis**
 
+**Overview**
 This project analyzes unprovoked shark attack data to assess the feasibility of expanding into shark-resistant protective gear. The analysis supports business decisions related to product design, customer targeting, and marketing strategy.
----------------------------------------------------------------------
+
+---
+
 **Business Objective**
 
 To determine whether data supports investment in shark-resistant gear by analyzing:
 
-* Gender distribution of incidents
+- Gender distribution of incidents
 
-* Sport activities with highest exposure
+- Sport activities with highest exposure
 
-* Common injury patterns and affected body parts
----------------------------------------------------------------------
+- Common injury patterns and affected body parts
+
+---
+
 **Hypotheses**
 
 **1.** Most Shark attacks are unprovoke
@@ -24,7 +27,8 @@ To determine whether data supports investment in shark-resistant gear by analyzi
 
 **4.** Injuries are concentrated in specific body parts
 
----------------------------------------------------------------------
+---
+
 **Dataset**
 
 Source: Global Shark Attack File (GSAF)
@@ -33,24 +37,28 @@ Focus: Unprovoked, sport-related incidents
 
 **Tools Used**
 
-* Python
+- Python
 
-* Pandas
+- Pandas
 
-* Matplotlib
+- Matplotlib
 
-* Jupyter Notebook / Google Colab
----------------------------------------------------------------------
+- Jupyter Notebook / Google Colab
+
+---
+
 **Key Insights**
 
-* Majority of incidents are unprovoked
+- Majority of incidents are unprovoked
 
-* Majority of incidents involve male participants
+- Majority of incidents involve male participants
 
-* Surfing, swimming, and wading dominate exposure
+- Surfing, swimming, and wading dominate exposure
 
-* Lower limbs are the most commonly injured body parts
----------------------------------------------------------------------
+- Lower limbs are the most commonly injured body parts
+
+---
+
 **Business Recommendations**
 
 **1.** Launch male-focused protective gear initially
@@ -61,7 +69,7 @@ Focus: Unprovoked, sport-related incidents
 
 **4.** Use data-driven, non-fear-based marketing
 
----------------------------------------------------------------------
+---
+
 **You can find our presentation in this link:**
 https://docs.google.com/presentation/d/1eTJTYzwIYBNvlgiKl4ZveXupgZmBjq7tBRLSwKBWei8/edit?usp=sharing
-
